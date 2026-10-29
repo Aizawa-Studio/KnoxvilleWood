@@ -26,3 +26,8 @@ Windows/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Agent notes and chat. Local only. Do not commit.
+AGENTS.md
+WARP.md
+.warp/
